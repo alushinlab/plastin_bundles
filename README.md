@@ -18,7 +18,7 @@ Publication: Will be updated upon peer-review and publication.
 Several external python libraries were used in the scripts contained in this repository. If one would like to use or modify these scripts, it is suggested to create an anaconda environment with the following packages:
 numpy, prody, sklearn, tqdm, matplotlib, mrcfile, scipy, skimage, keras, tensorflow, and EMAN2.
 
-A .yml file is provided in misc that describes the versions used to run these scripts. The path to one's own anaconda environment will need to be modified to run the scripts properly. Additionally, hard-coded paths to files will need to be modified in the source code.
+.yml files are provided in misc that describes the versions used to run these scripts. The path to one's own anaconda environment will need to be modified to run the scripts properly. Additionally, hard-coded paths to files will need to be modified in the source code.
 
 
 
